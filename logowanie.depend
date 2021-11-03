@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635952731 source:c:\users\dejw\desktop\programyc++\logowanie\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+
